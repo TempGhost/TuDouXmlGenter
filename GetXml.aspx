@@ -1,4 +1,4 @@
-﻿<%@ page language="C#" autoeventwireup="true" inherits="GetXml, App_Web_oh2kak4m" %>
+﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="GetXml.aspx.cs" Inherits="GetXml" %>
 
 <%--<!DOCTYPE html>
 
